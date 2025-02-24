@@ -23,7 +23,8 @@
 
 .even-columns {
   display: grid;
-  --max-width: 80rem;
+
+  gap: 1rem;
 }
 
 .items-center {
